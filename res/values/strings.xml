@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GMS Installer</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="error_occurred">Error occurred</string>
+	<string name="instal_google_apps_title">Install google apps</string>
+	<string name="instal_google_apps_content">Are you sure to install google apps in your tablet?if you press OK system will reboot to install update.</string>
+	<string name="extract_update_file_title">Extract update file</string>
+	<string name="extract_update_file_content">Extracting update file,please wait.</string>
+	<string name="extract_update_file_error">Extract update file failed</string>
+	<string name="install_update_file_error">Install update file failed</string>
+</resources>
